@@ -1,15 +1,3 @@
-﻿/****************************************************************************
-**					SAKARYA ÜNİVERSİTESİ
-**			BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ
-**				  BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ
-**				   PROGRAMLAMAYA GİRİŞİ DERSİ
-**
-**				ÖDEV NUMARASI=1
-**				ÖĞRENCİ ADI-SOYADI :Deniz UMUR
-**				ÖĞRENCİ NUMARASI.: B221210038
-**				DERS GRUBU…………: 1-A
-****************************************************************************/
-
 #include <iomanip>
 #include <stdlib.h>
 #include <iostream>
